@@ -1,0 +1,90 @@
+:root {
+    --color1: #3a1cac;
+    --color2: #f8002c;
+    --color3: #bd35bb;
+    --color4: #fbe029;
+  }
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:var(--color3);
+    display: block;
+}
+
+h1{
+    text-align: center;
+    color: var(--color1);
+    font-size: 50px;
+    background-color:var(--color4);
+    font-family: 'Commissioner', sans-serif;
+}
+
+h2{
+    text-align: center;
+    color:var(--color4);
+    font-size: 35px;
+}
+
+img{
+    float: left;
+    
+}
+
+.integrantes{
+    text-align: justify;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.claudio{
+    padding-left: 170px;
+    padding-right: 25px;
+    padding-top: 3px;
+}
+.fotoclaudio{
+    width: 12%;
+}
+.elena{
+    padding-left: 320px;
+    padding-right: 25px;
+    padding-top: 3px;
+}
+.fotoelena{
+    width: 12%;
+}
+.carlos{
+    padding-left: 470px; 
+    padding-right: 25px;
+    padding-top: 3px;
+}
+.fotocarlos{
+   width: 12%;
+}
+.marcela{
+    padding-left: 620px;
+    padding-right: 25px;
+    padding-top: 3px;
+}
+.fotomarcela{
+    width: 12%;
+}
+.yani{
+    padding-left: 770px;
+    padding-right: 25px;
+    padding-top: 3px;
+}
+.fotoyani{
+    width: 12%;
+}
+.sebastian{
+    padding-left: 920px;
+    padding-right: 25px;
+    padding-top: 3px;
+}
+.fotosebastian{
+    width: 12%;
+}
+
